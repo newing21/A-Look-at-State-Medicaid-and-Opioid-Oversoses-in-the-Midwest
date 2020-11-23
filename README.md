@@ -17,3 +17,7 @@ The number of drug overdose deaths data is publicly available from Center for Di
 <br/><img src='/images/china.jpg'>
 <br/><img src='/images/china.jpg'>
 <br/><img src='/images/china.jpg'>
+
+###
+
+[Final Report](https://github.com/newing21/newing21.github.io/blob/master/files/Cumberland_Metals_Case_Study.pdf)
