@@ -18,7 +18,7 @@ The number of drug overdose deaths data is publicly available from Center for Di
 <br/><img src='/images/china.jpg'>
 <br/><img src='/images/china.jpg'>
 
-https://github.com/newing21/A-Look-at-State-Medicaid-and-Opioid-Oversoses-in-the-Midwest/issues/1
+[Medicaid as Percentage of State Budget]https://github.com/newing21/A-Look-at-State-Medicaid-and-Opioid-Oversoses-in-the-Midwest/issues/1
 
 ### Final Report
 
